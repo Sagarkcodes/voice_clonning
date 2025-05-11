@@ -1,22 +1,14 @@
-# Python
+# Ignore virtual environments
+venv/
+
+# Python bytecode
 __pycache__/
 *.py[cod]
 *.ipynb_checkpoints
 
-# Virtual environments
-env/
-venv/
-.venv/
-
-# Models and large files
-*.pt
-*.pth
-*.ckpt
-*.npz
-
 # Logs
 *.log
 
-# OS files
+# OS and IDE-specific
 .DS_Store
 Thumbs.db
