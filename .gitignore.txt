@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Models and large files
+*.pt
+*.pth
+*.ckpt
+*.npz
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
