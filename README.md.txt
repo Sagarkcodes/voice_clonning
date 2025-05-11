@@ -11,11 +11,7 @@ This is a voice cloning project using ECAPA-TDNN for speaker embedding, F5-TTS f
 1. Clone this repo
 2. Follow the steps in `run.py` to test voice cloning
 
-## Requirements
-- Python 3.8+
-- PyTorch
-- torchaudio
-- Additional libraries (see `requirements.txt`)
-
-## License
-MIT
+arrange the folders according to the repo and run the commands
+uvicorn api.main:app --reload
+or 
+python ui/interface.py
