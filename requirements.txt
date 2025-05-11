@@ -1,6 +1,7 @@
 blis==0.7.9
 click==8.1.8
 colorama==0.4.6
+git-filter-repo==2.47.0
 hmmlearn==0.3.3
 joblib==1.4.2
 nltk==3.9.1
